@@ -1,12 +1,7 @@
-/* styles/style.css */
-
-/* General Styles */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
-
-/* Background Image */
 #background {
     background-image: url('../images/apple-pie.jpg');
     background-size: cover;
@@ -15,8 +10,6 @@ body {
     text-align: center;
     padding: 50px;
 }
-
-/* Recipe Info Section */
 #recipe-info {
     background-color: rgba(0, 0, 0, 0.7);
     padding: 20px;
@@ -33,8 +26,6 @@ body {
 #recipe-info h2 {
     margin-top: 0;
 }
-
-/* Preparation Section */
 .prep-section {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
